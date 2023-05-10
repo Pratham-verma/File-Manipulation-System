@@ -13,7 +13,7 @@ Include the necessary headers:
 
 cpp
 
-#include<iostream>
+{ #include<iostream>
   
 #include<fstream>
   
@@ -23,7 +23,7 @@ cpp
   
 #include<cstring>
   
-#include<sys/stat.h>
+#include<sys/stat.h> }
   
   
   
