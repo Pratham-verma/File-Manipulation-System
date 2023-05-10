@@ -7,33 +7,33 @@ FileManager is a C++ class that provides functionality to manage files. It inclu
 ## Usage
 
 
-1. To use the FileManager class, follow these steps:
+1.  To use the FileManager class, follow these steps:
 
 Include the necessary headers:
 
 cpp
 
-#include<iostream>
+- #include < iostream >
   
-#include<fstream>
+- #include < fstream >
   
-#include<string>
+- #include < string >
   
-#include<cstdio>
+- #include < cstdio >
   
-#include<cstring>
+- #include < cstring >
   
-#include<sys/stat.h>
+- #include <sys/stat.h>
   
   
   
-2. Create an instance of the FileManager class, providing the desired filename as a parameter:
+2.  Create an instance of the FileManager class, providing the desired filename as a parameter:
 
-  FileManager fm("test.txt");
+     FileManager fm( " test.txt " );
   
   
   
-3. Use the FileManager methods to perform file operations. The available methods are:
+3.  Use the FileManager methods to perform file operations. The available methods are:
 save_to_file(string content): Saves the given content to the file specified during FileManager initialization.
   
 
@@ -49,22 +49,22 @@ delete_file(): Deletes the file from the file system.
   
   
 
-4. After performing the desired operations, return 0 to exit the program.
+4.  After performing the desired operations, return 0 to exit the program.
   
 Example:-
 cpp
 
-#include<iostream>
+- #include < iostream >
   
-#include<fstream>
+- #include < fstream >
   
-#include<string>
+- #include < string >
   
-#include<cstdio>
+- #include < cstdio >
   
-#include<cstring>
+- #include < cstring >
   
-#include<sys/stat.h>
+- #include < sys/stat.h >
   
 
 using namespace std;
