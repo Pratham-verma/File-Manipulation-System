@@ -12,13 +12,13 @@ FileManager is a C++ class that provides functionality to manage files. It inclu
 Include the necessary headers:
 
 cpp
-Copy code
-#include <iostream>
-#include <fstream>
-#include <string>
-#include <cstdio>
-#include <cstring>
-#include <sys/stat.h>
+
+#include<iostream>
+#include<fstream>
+#include<string>
+#include<cstdio>
+#include<cstring>
+#include<sys/stat.h>
   
   
   
@@ -49,17 +49,17 @@ delete_file(): Deletes the file from the file system.
 Example:-
 cpp
 
-#include <iostream>
+#include<iostream>
   
-#include <fstream>
+#include<fstream>
   
-#include <string>
+#include<string>
   
-#include <cstdio>
+#include<cstdio>
   
-#include <cstring>
+#include<cstring>
   
-#include <sys/stat.h>
+#include<sys/stat.h>
   
 
 using namespace std;
