@@ -48,13 +48,19 @@ delete_file(): Deletes the file from the file system.
   
 Example:-
 cpp
-Copy code
+
 #include <iostream>
+  
 #include <fstream>
+  
 #include <string>
+  
 #include <cstdio>
+  
 #include <cstring>
+  
 #include <sys/stat.h>
+  
 
 using namespace std;
 
