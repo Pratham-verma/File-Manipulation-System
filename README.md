@@ -13,15 +13,15 @@ Include the necessary headers:
 
 cpp
 
-- #include<iostream>
+#include<iostream>
   
-- #include<fstream>
+#include<fstream>
   
-- #include<string>
+#include<string>
   
-- #include<cstdio>
+#include<cstdio>
   
-- #include<cstring>
+#include<cstring>
   
 #include<sys/stat.h>
   
