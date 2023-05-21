@@ -1,7 +1,7 @@
 # File-manipulation-system
-## FileManager
+## File Manipulator
 
-FileManager is a C++ class that provides functionality to manage files. It includes methods to create, save, view, delete, and get information about files.
+File Manipulator is a C++ class that provides functionality to manage files. It includes methods to create, save, view, delete, and get information about files.
 
 
 ## Usage
